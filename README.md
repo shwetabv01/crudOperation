@@ -24,7 +24,7 @@ The app demonstrates:
 
 ### 1. Clone the Repository
 ```bash
-git clone "https://github.com/shweta/fullstack-demo.git"
+git clone "https://github.com/shwetabv01/crudOperation.git"
 cd fullstack-demo
 
 ### 2. Create Virtual Environment
