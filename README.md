@@ -39,6 +39,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ## 4. Configure Database
+or configure with sqlit
 Update crud_demo/settings.py with your PostgreSQL credentials:
 
 DATABASES = {
